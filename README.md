@@ -6,10 +6,11 @@ Bem-vindo ao meu portfólio de scouting de futebol. Este projeto centraliza dado
 
 ## 👤 Ficha do Atleta: Lucas "Pedrada" Silva
 
-| :--- | :--- |
+| Informação | Dado |
+
 | **Idade** | 20 anos (Nasc. 2006) |
 | **Posição** | Volante / Meio-Campista Box-to-Box |
-| **Clube Atual** |Ceilândia F.C (Brasil) |
+| **Clube Atual** | Real Progresso FC (Brasil) |
 | **Pé Preferencial** | Direito |
 | **Contrato até** | 12/2028 |
 | **Valor de Mercado Est.** | € 5.000.000 |
